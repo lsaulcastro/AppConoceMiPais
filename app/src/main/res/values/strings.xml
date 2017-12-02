@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppConoceMiPais</string>
+
+    <string name="foto">Foto</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="contrase">Contraseña</string>
+    <string name="apellido">Apellido</string>
+    <string name="ingresa">Ingresar</string>
+    <string name="login">Ingrese los Datos</string>
+    <string name="registrar">Registrarse</string>
+    <string name="userCreate">Usuario Creado </string>
+    <string name="error">Error!  </string>
+    <string name="cargando">Cargando, Por favor espere! </string>
+    <string name="descripcion">Descripcion: </string>
+    <string name="logout">Cerrar Sesion</string>
+    <item name="visible" type="id" />
+    <string name="perfil">Perfil</string>
+    <item name="masked" type="id" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

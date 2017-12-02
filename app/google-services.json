@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372509385810",
+    "firebase_url": "https://appconocemipaispruebas.firebaseio.com",
+    "project_id": "appconocemipaispruebas",
+    "storage_bucket": "appconocemipaispruebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372509385810:android:7fa75283f9441840",
+        "android_client_info": {
+          "package_name": "com.example.sauld.appconocemipais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372509385810-3krd6j7h8i57ukd1rpe0k0qpa0gjbbj1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sauld.appconocemipais",
+            "certificate_hash": "0dbec5be7b78e0a4d73ca74ec0beac43caa40bb6"
+          }
+        },
+        {
+          "client_id": "372509385810-02erqnkfmskegp7e15sg6tkgj6qh1j3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApb2pS5t-qHfzM670c3qHkjp0LZQutXz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372509385810-02erqnkfmskegp7e15sg6tkgj6qh1j3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

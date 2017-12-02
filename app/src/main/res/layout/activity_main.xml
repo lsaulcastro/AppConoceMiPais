@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sauld.appconocemipais.Activities.MainActivity">
+
+
+    <FrameLayout
+
+        android:id="@+id/contenedorPanel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </FrameLayout>
+
+    <RelativeLayout
+        android:id="@+id/nav_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom">
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigatio"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/border_top"
+            android:backgroundTint="#FFFFFF"
+            app:itemIconTint="@drawable/selector_icon_color"
+            app:itemTextColor="@drawable/selector_icon_color"
+            app:menu="@menu/menu_items" />
+
+    </RelativeLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>
